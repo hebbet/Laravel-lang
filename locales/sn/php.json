@@ -37,6 +37,7 @@
     "doesnt_end_with": "Munda wegumi haufanire kupera neimwe yeinotevera: :values.",
     "doesnt_start_with": "Munda wegumi haufanire kutanga neimwe yeinotevera: :values.",
     "email": "Iwo gumi anofanira kunge ari kero yeemail inoshanda.",
+    "encoding": "The :attribute field must be encoded in :encoding.",
     "ends_with": "Iwo gumi anofanira kupera neimwe yeinotevera: :values.",
     "enum": "Gumi rakasarudzwa harishandi.",
     "exists": "Gumi rakasarudzwa harishandi.",
